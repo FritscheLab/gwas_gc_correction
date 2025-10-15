@@ -1,0 +1,24 @@
+# R and RStudio
+.Rhistory
+.Rproj.user/
+.RData
+
+# Python venv (if any)
+.venv/
+
+# OS
+.DS_Store
+
+# Build/outputs
+out/
+
+# Logs
+*.log
+
+# Python caches (if any left)
+__pycache__/
+.pytest_cache/
+
+# Misc
+*.tmp
+*.bak
